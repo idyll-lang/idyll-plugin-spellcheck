@@ -7,6 +7,7 @@
   "author": "Matthew Conlen",
   "license": "MIT",
   "dependencies": {
+    "idyll-ast": "^2.0.0-alpha.0",
     "spellchecker": "^3.4.4"
   }
 }
